@@ -1,0 +1,48 @@
+POKER HAND ANALYSIS REPORT — ID: Unknown
+Generated: 23/10/2025 12:25:10
+
+
+==================================================
+HAND STRENGTH
+--------------------------------------------------
+
+Type: Two Pair
+Score: 50/100
+
+
+
+
+==================================================
+STATISTICAL ANALYSIS
+--------------------------------------------------
+
+Equity: 18.0%
+Pot Odds: 33.3%
+Recommended Decision: Fold
+Confidence Level: 75.0%
+Expected Value: -EV estimate based on odds
+
+
+
+
+==================================================
+STRATEGIC INSIGHTS
+--------------------------------------------------
+(1) Equity (18.0%) insufficient versus pot odds (33.3%).
+(2) Late position (BTN) allows extra aggression.
+
+
+
+==================================================
+CONTEXT
+--------------------------------------------------
+
+Position: undefined
+Pot Size: €undefined
+Effective Stack: €undefined
+Action Summary: Fold (75.0% confidence)
+
+
+
+==================================================
+End of Analysis
