@@ -1,0 +1,49 @@
+Winamax Poker - Tournament "Daily Turbo" buy-in: €5 + €0.50
+HandId: #1234567890-45-17102025
+Table: 'Table 16' 9-max (real money) Seat #1 is the button
+Seat 1: Player1 (2500)
+Seat 2: Player2 (3000)
+Seat 3: Player3 (3150)
+Seat 4: Hero (2000)
+Seat 5: Player4 (3550)
+Seat 6: Player5 (2800)
+Seat 7: Player6 (1900)
+Seat 8: Player7 (3300)
+Seat 9: Player8 (2700)
+Player3 posts small blind 50
+Hero posts big blind 100
+
+*** HOLE CARDS ***
+Dealt to Hero [As Kh]
+Player4 raises 250 to 350
+Player5 folds
+Player6 folds
+Player7 folds
+Player8 folds
+Player1 folds
+Player2 folds
+Player3 calls 300
+Hero calls 250
+
+*** FLOP *** [Ah Ks 7c]
+Player3 checks
+Hero bets 400
+Player4 calls 400
+Player3 folds
+
+*** TURN *** [Ah Ks 7c] [9d]
+Hero bets 600
+Player4 raises 1200 to 1800
+Hero calls 1250 and is all-in
+
+*** RIVER *** [Ah Ks 7c 9d] [2s]
+*** SHOW DOWN ***
+Hero shows [As Kh] (Two pair, Aces and Kings)
+Player4 shows [Ad Qc] (Pair of Aces)
+Hero wins 4150 from pot with Two pair, Aces and Kings
+
+*** SUMMARY ***
+Total pot 4150
+Board [Ah Ks 7c 9d 2s]
+Seat 4: Hero (button) showed [As Kh] and won (4150) with Two pair, Aces and Kings
+Seat 5: Player4 showed [Ad Qc] and lost with a Pair of Aces
